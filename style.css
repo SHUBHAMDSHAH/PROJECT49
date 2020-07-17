@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+*{
+ border: solid;
+}
+.Header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+.S{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: gold;
+}
